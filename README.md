@@ -1,4 +1,4 @@
-# game_pegame_piu
+# game_pygame_piu
 
 The very first development on Python. If I may say so. :-)
 Wrote code that works. At the moment I understand that it needs refactoring.
